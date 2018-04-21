@@ -6,11 +6,9 @@
 #
 theme : night
 theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
 logo : assets/image/logo.png
-background : assets/image/scales.svg
-background-size : cover
-background-opacity : 80
 highlight : atom-one-light
 transition : none
 published : true
-footnote : "GitPitch Pro [ Scales ] Presentation Template"
+footnote : "GitPitch [ Netflix ] Presentation Template"
