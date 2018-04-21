@@ -1,7 +1,7 @@
 @title[Civick Hackers a Scuola]
-# Civick Hackers a Scuola
+# Civick Hackers
 
-### Sai che si può essere "hacker buoni"?
+### anche a scuola...
 
 ---
 
