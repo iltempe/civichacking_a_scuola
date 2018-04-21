@@ -1,7 +1,7 @@
 @title[Civick Hackers a Scuola]
-# Civick Hackers
+# A scuola di...
 
-### anche a scuola...
+### civic hacking
 
 ---
 
