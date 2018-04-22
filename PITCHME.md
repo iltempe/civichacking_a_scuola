@@ -13,3 +13,57 @@
 ## E questo?
 
 ![](assets/image/2.jpg)
+
+---
+
+## Mappiamo la nostra città?
+
+![](assets/image/3.jpg)
+
+---
+
+## Dov'è l'acqua potabile a Prato?
+
+![](assets/image/acqua.jpg)
+
+---
+
+## Dov'è lo sport a Prato?
+
+![](assets/image/sport.jpg)
+
+---
+
+## Dove si può andare con la bici?
+
+![](assets/image/pisteciclabili.jpg)
+
+---
+
+## Dove si può andare in treno?
+
+![](assets/image/ferrovie.png)
+
+---
+
+# Leggere una mappa in tante lingue
+
+![](assets/image/mapparepratoincinese.jpg)
+
+---
+
+## Scusi, dov'è il bagno?
+
+![](assets/image/bagnipubblici.jpg)
+
+---
+
+## Scusi, dov'è il bagno?
+
+![](assets/image/bagnipubblici.jpg)
+
+---
+
+## Adotta un tombino
+
+![](assets/image/adottauntombino.jpg)
