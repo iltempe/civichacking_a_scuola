@@ -46,7 +46,7 @@
 
 ---
 
-### Leggere una mappa in tante lingue
+#### Una mappa in tante lingue
 
 ![](assets/image/mapparepratoincinese.jpg)
 
