@@ -100,6 +100,12 @@
 
 ---
 
+#### Ora tocca a te!
+
+![](assets/image/toccaate.jpg)
+
+---
+
 #### Grazie
 - Matteo Tempestini
 - [@il_tempe](https://www.twitter.com/il_tempe)
