@@ -16,6 +16,12 @@
 
 ---
 
+#### E questo?
+
+![](assets/image/dati.jpg)
+
+---
+
 #### Mappiamo la nostra città?
 
 ![](assets/image/3.jpg)
@@ -90,7 +96,5 @@
 
 #### Grazie
 - Matteo Tempestini
-- [@il_tempe](www.twitter.com/il_tempe)
+- [@il_tempe](https://www.twitter.com/il_tempe)
 - mtempestini@gmail.com
-
-![](assets/image/io.jpg)
