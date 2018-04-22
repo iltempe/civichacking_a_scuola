@@ -61,3 +61,27 @@
 #### Adotta un tombino
 
 ![](assets/image/adottauntombino.jpg)
+
+---
+
+#### Cosa è?
+
+![](assets/image/wikipedia.jpg)
+
+---
+
+#### Raccontiamo con le foto
+
+![](assets/image/wikimedia.jpg)
+
+---
+
+#### Perchè usare Wikipedia?
+
+![](assets/image/wikipedia_data1.jpg)
+
+---
+
+#### Perchè usare Wikipedia?
+
+![](assets/image/wikipedia_data2.jpg)
