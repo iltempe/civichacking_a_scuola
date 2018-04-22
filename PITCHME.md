@@ -64,6 +64,12 @@
 
 ---
 
+
+#### Mappare per l'emergenza
+
+![](assets/image/nepal.jpg)
+
+---
 #### Adotta un tombino
 
 ![](assets/image/adottauntombino.jpg)
