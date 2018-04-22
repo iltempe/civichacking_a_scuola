@@ -85,3 +85,12 @@
 #### Perchè usare Wikipedia?
 
 ![](assets/image/wikipedia_data2.jpg)
+
+---
+
+#### Grazie
+- Matteo Tempestini
+- [@il_tempe](www.twitter.com/il_tempe)
+- mtempestini@gmail.com
+
+![](assets/image/io.jpg)
