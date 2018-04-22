@@ -48,7 +48,7 @@
 
 #### Dove si può andare in treno?
 
-![](assets/image/ferrovie.png)
+![](assets/image/ferrovie.jpg)
 
 ---
 
@@ -106,7 +106,7 @@
 
 ---
 
-#### Grazie
+### Grazie
 - Matteo Tempestini
 - [@il_tempe](https://www.twitter.com/il_tempe)
-- mtempestini@gmail.com
+- [mtempestini@gmail.com](mailto:mtempestini@gmail.com)
