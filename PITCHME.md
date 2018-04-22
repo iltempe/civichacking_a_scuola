@@ -4,43 +4,43 @@
 
 ---
 
-### Cosa è?
+#### Cosa è?
 
 ![](assets/image/1.jpg)
 
 ---
 
-### E questo?
+#### E questo?
 
 ![](assets/image/2.jpg)
 
 ---
 
-### Mappiamo la nostra città?
+#### Mappiamo la nostra città?
 
 ![](assets/image/3.jpg)
 
 ---
 
-### Dov'è l'acqua potabile a Prato?
+#### Dov'è l'acqua potabile a Prato?
 
 ![](assets/image/acqua.jpg)
 
 ---
 
-### Dov'è lo sport a Prato?
+#### Dov'è lo sport a Prato?
 
 ![](assets/image/sport.jpg)
 
 ---
 
-### Dove si può andare con la bici?
+#### Dove si può andare con la bici?
 
 ![](assets/image/pisteciclabili.jpg)
 
 ---
 
-### Dove si può andare in treno?
+#### Dove si può andare in treno?
 
 ![](assets/image/ferrovie.png)
 
@@ -52,12 +52,12 @@
 
 ---
 
-### Scusi, dov'è il bagno?
+#### Scusi, dov'è il bagno?
 
 ![](assets/image/bagnipubblici.jpg)
 
 ---
 
-### Adotta un tombino
+#### Adotta un tombino
 
 ![](assets/image/adottauntombino.jpg)
