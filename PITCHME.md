@@ -85,7 +85,7 @@
 ---
 #### Mappare per aiutare la città
 
-![adotta un tombino](https://www.youtube.com/watch?time_continue=7&v=Z1Vjrx3IAH0)
+![adotta un tombino](https://www.youtube.com/embed/Z1Vjrx3IAH0)
 
 ---
 
