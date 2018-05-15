@@ -102,10 +102,9 @@
 kibera, naerobi, Kenya
 ---
 
-#### Mappe per l'emergenza
+#### [Missing Maps](https://www.missingmaps.org/)
 
 ![](assets/image/process-missing-maps.jpg)
-[Missing Maps](https://www.missingmaps.org/)
 
 ---
 
