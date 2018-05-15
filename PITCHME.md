@@ -4,6 +4,12 @@
 
 ---
 
+#### Sapere dove sono i luoghi è una ricchezza
+
+![](assets/image/pexels-photo-707195.jpeg)
+
+---
+
 #### Cosa è?
 
 ![](assets/image/1.jpg)
@@ -52,6 +58,12 @@
 
 ---
 
+#### Mappare l'Accessibilità
+
+![](assets/image/accessibilità.jpg)
+
+---
+
 #### Una mappa in tante lingue
 
 ![](assets/image/mapparepratoincinese.jpg)
@@ -64,7 +76,6 @@
 
 ---
 
-
 #### Mappare per l'emergenza
 
 ![](assets/image/nepal.jpg)
@@ -73,30 +84,6 @@
 #### Adotta un tombino
 
 ![](assets/image/adottauntombino.jpg)
-
----
-
-#### Cosa è?
-
-![](assets/image/wikipedia.jpg)
-
----
-
-#### Raccontiamo con le foto
-
-![](assets/image/wikimedia.jpg)
-
----
-
-#### Perchè usare Wikipedia?
-
-![](assets/image/wikipedia_data1.jpg)
-
----
-
-#### Perchè usare Wikipedia?
-
-![](assets/image/wikipedia_data2.jpg)
 
 ---
 
