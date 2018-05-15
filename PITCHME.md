@@ -62,7 +62,7 @@
 
 #### Mappare l'Accessibilità
 
-![](assets/image/accessibilità.jpg)
+![](assets/image/accessibilità.jpg)
 
 ---
 
