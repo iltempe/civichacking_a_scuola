@@ -30,7 +30,7 @@
 
 #### Mappiamo la nostra città!
 
-www.openstreetmap.org
+[www.openstreetmap.org](http://www.openstreetmap.org)
 
 ![](assets/image/3.jpg)
 
@@ -83,9 +83,9 @@ www.openstreetmap.org
 ![](assets/image/nepal.jpg)
 
 ---
-#### Adotta un tombino
+#### Mappare per aiutare la città
 
-![](assets/image/adottauntombino.jpg)
+![adotta un tombino](https://www.youtube.com/watch?time_continue=7&v=Z1Vjrx3IAH0)
 
 ---
 
