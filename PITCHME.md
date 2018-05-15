@@ -48,13 +48,13 @@
 
 ---
 
-#### Dove si può andare con la bici?
+#### Dove andare con la bici?
 
 ![](assets/image/pisteciclabili.jpg)
 
 ---
 
-#### Dove si può andare in treno?
+#### Dove andare in treno?
 
 ![](assets/image/ferrovie.jpg)
 
@@ -66,7 +66,7 @@
 
 ---
 
-#### Una mappa in tante lingue
+#### Mappe in tante lingue
 
 ![](assets/image/mapparepratoincinese.jpg)
 
@@ -78,12 +78,12 @@
 
 ---
 
-#### Mappare per l'emergenza
+#### Mappe per l'emergenza
 
 ![](assets/image/nepal.jpg)
 
 ---
-#### Mappare per la tua città
+#### Mappe per la tua città
 
 ![adotta un tombino](https://www.youtube.com/embed/Z1Vjrx3IAH0)
 
