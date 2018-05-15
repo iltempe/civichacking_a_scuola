@@ -84,20 +84,35 @@
 
 ---
 
-#### Mappe per l'emergenza
-
-![](assets/image/nepal.jpg)
-
----
 #### Mappe per la tua città
 
 ![adotta un tombino](https://www.youtube.com/embed/Z1Vjrx3IAH0)
 
 ---
 
+#### Mappe per l'emergenza
+
+![](assets/image/nepal.jpg)
+
+---
+
+#### Mappe per l'emergenza
+
+![](assets/image/missingmaps.png)
+
+---
+
+#### Far esistere ciò che non esiste
+
+![](assets/image/kibera-map.jps)
+
+kibera, naerobi, Kenya
+---
+
+
 #### Ora tocca a te!
 
-![](assets/image/toccaate.jpg)
+![](assets/image/pexels-photo-297755.jpeg)
 
 ---
 
