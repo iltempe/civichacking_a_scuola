@@ -83,7 +83,7 @@
 ![](assets/image/nepal.jpg)
 
 ---
-#### Mappare per aiutare la città
+#### Mappare per la tua città
 
 ![adotta un tombino](https://www.youtube.com/embed/Z1Vjrx3IAH0)
 
