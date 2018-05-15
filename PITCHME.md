@@ -104,8 +104,7 @@
 
 #### Far esistere ciò che non esiste
 
-![](assets/image/kibera-map.jps)
-
+![](assets/image/kibera-map.jpg)
 kibera, naerobi, Kenya
 ---
 
