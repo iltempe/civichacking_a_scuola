@@ -96,18 +96,18 @@
 
 ---
 
-#### Mappe per l'emergenza
-
-![](assets/image/missingmaps.png)
-
----
-
 #### Far esistere ciò che non esiste
 
 ![](assets/image/kibera-map.jpg)
 kibera, naerobi, Kenya
 ---
 
+#### Mappe per l'emergenza
+
+![](assets/image/process-missing-maps.jpg)
+[Missing Maps](https://www.missingmaps.org/)
+
+---
 
 #### Ora tocca a te!
 
