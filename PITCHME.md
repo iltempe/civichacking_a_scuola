@@ -96,10 +96,9 @@
 
 ---
 
-#### Far esistere ciò che non esiste
+#### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
 
 ![](assets/image/kibera-map.jpg)
-kibera, naerobi, Kenya
 ---
 
 #### [Missing Maps](https://www.missingmaps.org/)
