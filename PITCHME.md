@@ -28,7 +28,9 @@
 
 ---
 
-#### Mappiamo la nostra città?
+#### Mappiamo la nostra città!
+
+www.openstreetmap.org
 
 ![](assets/image/3.jpg)
 
@@ -60,7 +62,7 @@
 
 #### Mappare l'Accessibilità
 
-![](assets/image/accessibilità.jpg)
+![](assets/image/accessibilità.png)
 
 ---
 
