@@ -36,6 +36,12 @@
 
 ---
 
+#### Tante informazioni da mappare!
+
+![](assets/image/esempioosm.jpg)
+
+---
+
 #### Dov'è l'acqua potabile a Prato?
 
 ![](assets/image/acqua.jpg)
