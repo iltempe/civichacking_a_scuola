@@ -1,6 +1,6 @@
-## Il Civic Hacking
+# Il Civic Hacking
 
-## a Scuola
+# a Scuola
 
 #### Matteo Tempestini
 #### Giornata Regionale dell'Apprendimento Digitale
