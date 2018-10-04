@@ -2,7 +2,9 @@
 
 ## a Scuola
 
-#### Matteo Tempestini, Giornata Regionale dell'Apprendimento Digitale, Ottobre 2018
+#### Matteo Tempestini
+#### Giornata Regionale dell'Apprendimento Digitale
+#### Ottobre 2018
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/4/46/Storm_Drain_Dryden.JPG
 
