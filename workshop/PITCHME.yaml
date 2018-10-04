@@ -5,10 +5,10 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 theme : simple
-theme-override : assets/css/PITCHME.css
+theme-override : template/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 # logo : assets/image/logo.png
-highlight : atom-one-light
-transition : fade
+highlight : atom-one-dark
+transition : none
 published : true
 footnote : "GitPitch [ Netflix ] Presentation Template - Matteo Tempestini Il civic hacking come possibile materia scolastica (CC BY) - 6 Ottobre 2018 - Giornata Regionale per l'Apprendimento Digitale"
