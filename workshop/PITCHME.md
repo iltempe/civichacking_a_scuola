@@ -4,9 +4,9 @@
 
 ---
 
-#### Sapere dove sono i luoghi è una ricchezza
+#### Avete mai pulito un tombino?
 
-![](assets/image/pexels-photo-707195.jpeg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/46/Storm_Drain_Dryden.JPG)
 
 ---
 
