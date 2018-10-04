@@ -20,13 +20,13 @@
 
 ---
 
-#### Chi è il civic hacker?
+## Chi è il civic hacker?
 
 @ul
 
 - Prova ad innescare un cambiamento
 - Attivista che lavora da solo o in gruppo
-- Parte da un problema riguardante la collettività 
+- Parte da un problema riguardante la collettività
 
 @ulend
 
