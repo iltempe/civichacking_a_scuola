@@ -20,9 +20,15 @@
 
 ---
 
-#### Cosa è?
+#### Chi è il civic hacker?
 
-![](assets/image/1.jpg)
+@ul
+
+- Prova ad innescare un cambiamento
+- Attivista che lavora da solo o in gruppo
+- Parte da un problema riguardante la collettività 
+
+@ulend
 
 ---
 
