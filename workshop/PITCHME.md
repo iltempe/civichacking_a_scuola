@@ -7,7 +7,7 @@
 #### Avete mai pulito un tombino?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/46/Storm_Drain_Dryden.JPG)
-
+Dhscommtech at English Wikipedia [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons
 ---
 
 #### Cosa è?
