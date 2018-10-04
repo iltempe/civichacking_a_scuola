@@ -4,7 +4,7 @@
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/4/46/Storm_Drain_Dryden.JPG
 
-## Avete mai pulito un tombino?
+## @color[white](Avete mai pulito un tombino?)
 
 ---
 
