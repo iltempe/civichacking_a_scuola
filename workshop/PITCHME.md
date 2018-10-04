@@ -1,6 +1,6 @@
-### Il Civic Hacking 
+## Il Civic Hacking
 
-# come possibile materia scolastica
+# a Scuola
 
 ---
 
