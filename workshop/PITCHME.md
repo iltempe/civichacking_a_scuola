@@ -36,7 +36,7 @@
 
 [www.openstreetmap.org](http://www.openstreetmap.org)
 
-![](../assets/image/3.jpg)
+![](https://github.com/iltempe/civichacking_a_scuola/blob/master/assets/image/3.jpg?raw=true)
 
 ---
 
