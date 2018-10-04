@@ -26,21 +26,9 @@
 
 - Prova ad innescare un cambiamento
 - Attivista che lavora da solo o in gruppo
-- Parte da un problema riguardante la collettività
+- Si muove da un problema riguardante la collettività
 
 @ulend
-
----
-
-#### E questo?
-
-![](assets/image/2.jpg)
-
----
-
-#### E questo?
-
-![](assets/image/dati.jpg)
 
 ---
 
@@ -48,7 +36,7 @@
 
 [www.openstreetmap.org](http://www.openstreetmap.org)
 
-![](assets/image/3.jpg)
+![](../assets/image/3.jpg)
 
 ---
 
