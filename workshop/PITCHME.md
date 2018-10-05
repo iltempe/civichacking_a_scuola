@@ -47,7 +47,7 @@
 ![](assets/image/kibera-map.jpg)
 ---
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/nepal.jpg
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/crowdsourcing.jpg
 ---
 
 #### [Missing Maps](https://www.missingmaps.org/)
