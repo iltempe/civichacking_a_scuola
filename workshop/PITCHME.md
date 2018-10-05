@@ -28,7 +28,7 @@
 ---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-1162964.jpeg
 
 ---
-
+---
 #### Creare mappe in tante lingue
 
 ![](assets/image/mapparepratoincinese.jpg)
