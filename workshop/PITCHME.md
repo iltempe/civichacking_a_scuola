@@ -16,8 +16,7 @@
 
 [Adopt A Drain](https://adoptadrain.sfwater.org/)
 
----?image=https://images.pexels.com/photos/735656/pexels-photo-735656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-735656.jpeg
 ---
 
 #### Mappare l'accessibilità?
