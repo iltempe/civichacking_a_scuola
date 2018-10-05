@@ -94,7 +94,7 @@
 
 ---
 
-## Qualche strumento...
+## Qualche strumento
 
 @ul
 
@@ -104,8 +104,8 @@
 - Creare ed archiviare dati -> [DataDotWolrd](https://data.world/)
 - Raccogliere dati sulla geografia -> [Openstreetmap](https://www.openstreet.org)
 - Realizzare mappe in modo rapido -> [Umap](https://umap.openstreetmap.fr/it/)
-- Condividere fotografie [Flickr](https://www.flickr.com/) o [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-- Raccogliere e condividere documenti [Internet Archive](https://archive.org)
+- Condividere fotografie -> [Flickr](https://www.flickr.com/) o [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- Raccogliere e condividere documenti -> [Internet Archive](https://archive.org)
 
 @ulend
 
@@ -130,7 +130,7 @@
 
 ---
 
-### Grazie
+## Grazie
 - Matteo Tempestini
 - [@il_tempe](https://www.twitter.com/il_tempe)
 - [mtempestini@gmail.com](mailto:mtempestini@gmail.com)
