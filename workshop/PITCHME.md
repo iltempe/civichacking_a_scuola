@@ -16,7 +16,7 @@
 
 [Adopt A Drain](https://adoptadrain.sfwater.org/)
 
----?image=https://commons.wikimedia.org/wiki/Category:Wheelchairs#/media/File:Medieval_Renaissance_Fair_Crowd_and_Empty_Wheelchair_(5722826436).jpg
+---?image=https://upload.wikimedia.org/wikipedia/commons/6/62/Medieval_Renaissance_Fair_Crowd_and_Empty_Wheelchair_%285722826436%29.jpg
 
 ---
 
