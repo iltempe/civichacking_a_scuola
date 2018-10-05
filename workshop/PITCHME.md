@@ -94,7 +94,7 @@
 
 ---
 
-## Qualche strumento...Solo come spunto!
+## Qualche strumento...
 
 @ul
 
@@ -115,9 +115,10 @@
 
 @ul
 
-- Lasciare ai ragazzi la possibilità di suggerire e sviluppare soluzioni ai problemi
-- Sensibilizzare allo sviluppo collaborativo, alla partecipazione e alla produzione di dati utili
-- Iniziare a promuovere momenti di collaborazione a scuola (hackathon)
+- Lasciare ai ragazzi la possibilità di sviluppare soluzioni ai problemi "senza chiedere permesso"
+- Promuovere momenti di collaborazione a scuola (hackathon)
+- Sensibilizzare alla produzione di dati utili
+- Sensibilizzare alla partecipazione (crowdsourcing)
 
 @ulend
 
