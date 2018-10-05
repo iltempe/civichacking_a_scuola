@@ -25,9 +25,13 @@
 
 [WheelMap](https://www.wheelmap.org)
 
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-1162964.jpeg
+
 ---
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-1162964.jpeg
+#### Mappe in tante lingue
+
+![](assets/image/mapparepratoincinese.jpg)
 
 ---
 
@@ -76,12 +80,6 @@
 #### Dove andare in treno?
 
 ![](assets/image/ferrovie.jpg)
-
----
-
-#### Mappe in tante lingue
-
-![](assets/image/mapparepratoincinese.jpg)
 
 ---
 
