@@ -30,9 +30,11 @@
 
 ![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/mapparepratoincinese.jpg)
 
----?image=assets/image/3.jpg&&size=cover&position=left&size=55% 100%
+---
 
-# @color[blue](Mappare la città)
+![](assets/image/3.jpg)
+
+# @color[black](Mappare la città)
 
 ---
 
