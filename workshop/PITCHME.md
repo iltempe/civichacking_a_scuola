@@ -4,11 +4,9 @@
 
 #### Matteo Tempestini
 #### Giornata Regionale dell'Apprendimento Digitale
-#### Ottobre 2018
+#### 6 Ottobre 2018
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/4/46/Storm_Drain_Dryden.JPG
-
-# @color[white](Avete mai pulito un tombino?)
 
 ---
 
@@ -17,6 +15,20 @@
 ![adotta un tombino](https://www.youtube.com/embed/Z1Vjrx3IAH0)
 
 [Adopt A Drain](https://adoptadrain.sfwater.org/)
+
+---?image=https://commons.wikimedia.org/wiki/Category:Wheelchairs#/media/File:Medieval_Renaissance_Fair_Crowd_and_Empty_Wheelchair_(5722826436).jpg
+
+---
+
+#### Mappare l'accessibilità?
+
+![wheelmap](https://www.youtube.com/watch?v=IK0FBVQB0g0)
+
+[WheelMap](https://www.youtube.com/watch?v=IK0FBVQB0g0)
+
+---
+
+---?image=https://commons.wikimedia.org/wiki/Category:Wheelchairs#/media/File:Medieval_Renaissance_Fair_Crowd_and_Empty_Wheelchair_(5722826436).jpg
 
 ---
 
@@ -65,12 +77,6 @@
 #### Dove andare in treno?
 
 ![](assets/image/ferrovie.jpg)
-
----
-
-#### Mappare l'Accessibilità
-
-![](assets/image/access.jpg)
 
 ---
 
