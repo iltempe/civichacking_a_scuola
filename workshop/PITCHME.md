@@ -105,7 +105,7 @@
 - Raccogliere dati sulla geografia -> [Openstreetmap](https://www.openstreet.org)
 - Realizzare mappe in modo rapido -> [Umap](https://umap.openstreetmap.fr/it/)
 - Condividere fotografie -> [Flickr](https://www.flickr.com/) o [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-- Raccogliere e condividere documenti -> [Internet Archive](https://archive.org)
+- Condividere documenti -> [Internet Archive](https://archive.org)
 
 @ulend
 
