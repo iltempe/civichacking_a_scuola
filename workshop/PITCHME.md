@@ -48,7 +48,7 @@
 
 #### Acqua Potabile?
 
-![](assets/image/acqua.jpg)
+![](assets/image/acqua1.jpg)
 
 ---
 
