@@ -34,6 +34,17 @@
 
 ---
 
+#### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
+
+![](assets/image/kibera-map.jpg)
+---
+
+#### [Missing Maps](https://www.missingmaps.org/)
+
+![](assets/image/process-missing-maps.jpg)
+
+---
+
 ## Cosa fa un civic hacker?
 
 @ul
@@ -100,14 +111,15 @@
 
 ---
 
-#### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
+## Alcuni spunti di riflessione
 
-![](assets/image/kibera-map.jpg)
----
+@ul
 
-#### [Missing Maps](https://www.missingmaps.org/)
+- Lasciare ai ragazzi la possibilità di suggerire e sviluppare soluzioni ai problemi
+- Sensibilizzare allo sviluppo collaborativo, alla partecipazione e alla produzione di dati utili
+- Iniziare a promuovere momenti di collaborazione a scuola (hackathon)
 
-![](assets/image/process-missing-maps.jpg)
+@ulend
 
 ---
 
