@@ -29,7 +29,7 @@
 
 ---
 
-#### Mappe in tante lingue
+#### Creare mappe in tante lingue
 
 ![](assets/image/mapparepratoincinese.jpg)
 
