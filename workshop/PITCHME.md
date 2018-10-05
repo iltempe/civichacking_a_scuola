@@ -69,6 +69,19 @@
 
 ---
 
+#### E così via....
+
+- Ristoranti
+- Edifici Abbandonati
+- Marciapiedi
+- Segnali Stradali
+- Panchine
+- Alberi Secolari
+
+#### Diventano tutti Dati Pubblici!
+
+---
+
 #### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
 
 ![](assets/image/kibera-map.jpg)
