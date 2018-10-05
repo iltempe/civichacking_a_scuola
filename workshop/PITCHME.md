@@ -84,7 +84,7 @@
 
 ---
 
-## Cosa fa un civic hacker?
+## Cosa fa quindi un civic hacker?
 
 @ul
 
@@ -96,7 +96,22 @@
 
 ---
 
-## Alcuni spunti di riflessione
+## Qualche strumento...Solo come spunto!
+
+@ul
+
+- Scrivere documentazione in modo condiviso -> [Google Doc](https://www.google.it/intl/it/docs/about/)
+- Progettare in modo condiviso -> [Github](https://www.github.com)
+- Raccogliere dati sulla geografia [Openstreetmap](https://www.openstreet.org)
+- Realizzare mappe in modo rapido -> [Umap]()
+- Condividere fotografie [Flickr](https://www.flickr.com/) o [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+- Raccogliere e condividere documenti [Internet Archive](https://archive.org)
+
+@ulend
+
+---
+
+## Alcuni spunti di discussione
 
 @ul
 
