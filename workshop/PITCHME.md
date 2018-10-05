@@ -32,7 +32,7 @@
 
 ![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/mapparepratoincinese.jpg)
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/3.jpg&&size=cover&opacity=20
+---?image=assets/image/3.jpg&&size=cover&opacity=20
 
 # @color[blue](Mappare la città)
 
