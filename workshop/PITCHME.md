@@ -65,8 +65,6 @@
 
 ![](assets/image/ferrovie.jpg)
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-917377.jpeg
-
 ---
 
 #### E così via....
@@ -79,6 +77,8 @@
 - Alberi Secolari
 
 #### Diventano tutti Dati Pubblici!
+
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-917377.jpeg
 
 ---
 
@@ -128,9 +128,9 @@
 
 @ul
 
-- Lasciare ai ragazzi la possibilità di sviluppare soluzioni ai problemi senza chiedere permesso
-- Promuovere momenti di collaborazione a scuola (hackathon)
-- Sensibilizzare alla produzione di dati utili
+- Lasciare ai ragazzi la possibilità di sviluppare soluzioni "senza chiedere permesso"
+- Promuovere momenti di sviluppo collaborativo (hackathon)
+- Sensibilizzare alla produzione di dati utili (smartcity)
 - Sensibilizzare alla partecipazione (crowdsourcing)
 
 @ulend
@@ -144,6 +144,7 @@
 ---
 
 ## Grazie
+![](https://scontent.ffco2-1.fna.fbcdn.net/v/t31.0-8/12967935_10153515720287944_3688419158722488295_o.jpg?_nc_cat=105&oh=f238f43beb1514e9eace14fe80a0840b&oe=5C51E79F)
 - Matteo Tempestini
 - [@il_tempe](https://www.twitter.com/il_tempe)
 - [mtempestini@gmail.com](mailto:mtempestini@gmail.com)
