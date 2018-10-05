@@ -32,6 +32,8 @@
 
 ![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/mapparepratoincinese.jpg)
 
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-1162964.jpeg
+
 ---
 
 #### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
