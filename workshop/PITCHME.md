@@ -94,6 +94,8 @@
 ![](assets/image/process-missing-maps.jpg)
 
 ---
+---?image=assets/image/tci.jpg
+---
 
 ## Cosa fa quindi un civic hacker?
 
@@ -140,6 +142,16 @@
 #### Ora tocca a te!
 
 ![](assets/image/pexels-photo-297755.jpeg)
+
+---
+
+@ul
+
+- Identifica un problema che ti sta a cuore nella tua città
+- Definisci un progetto per poter "fare qualcosa"
+- Definisci di quali strumenti hai bisogno
+
+@ulend
 
 ---
 
