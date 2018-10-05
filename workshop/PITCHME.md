@@ -30,7 +30,7 @@
 
 @ulend
 
----?image=https://github.com/iltempe/civichacking_a_scuola/blob/master/assets/image/3.jpg?raw=true
+---?image=https://github.com/iltempe/civichacking_a_scuola/blob/master/assets/image/3.jpg
 
 #### Mappiamo la nostra città!
 
