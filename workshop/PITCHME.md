@@ -28,7 +28,7 @@
 
 ---
 
----?image=https://commons.wikimedia.org/wiki/Category:Wheelchairs#/media/File:Medieval_Renaissance_Fair_Crowd_and_Empty_Wheelchair_(5722826436).jpg
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-1162964.jpeg
 
 ---
 
