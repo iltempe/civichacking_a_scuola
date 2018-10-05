@@ -97,12 +97,6 @@
 
 ---
 
-#### Mappe per l'emergenza
-
-![](assets/image/nepal.jpg)
-
----
-
 ## Alcuni spunti di riflessione
 
 @ul
