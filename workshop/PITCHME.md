@@ -38,39 +38,9 @@
 
 [www.openstreetmap.org](http://www.openstreetmap.org)
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-917377.jpeg
-
 ---
 
-#### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
-
-![](assets/image/kibera-map.jpg)
----
-
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/crowdsourcing.jpg
----
-
-#### [Missing Maps](https://www.missingmaps.org/)
-
-![](assets/image/process-missing-maps.jpg)
-
----
-
-## Cosa fa un civic hacker?
-
-@ul
-
-- Si muove davanti ad un problema riguardante la collettività
-- Prova ad innescare cambiamento
-- Attivismo operando da solo o in gruppo (dal basso!)
-
-@ulend
-
-
-
----
-
-#### Tante informazioni da mappare!
+#### Collaborare per informazioni utili a tutti
 
 ![](assets/image/esempioosm.jpg)
 
@@ -98,17 +68,32 @@
 
 ![](assets/image/ferrovie.jpg)
 
----
-
-#### Scusi, dov'è il bagno?
-
-![](assets/image/bagnipubblici.jpg)
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-917377.jpeg
 
 ---
 
-#### Mappe per la tua città
+#### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
 
-![adotta un tombino](https://www.youtube.com/embed/Z1Vjrx3IAH0)
+![](assets/image/kibera-map.jpg)
+
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/crowdsourcing.jpg
+---
+
+#### [Missing Maps](https://www.missingmaps.org/)
+
+![](assets/image/process-missing-maps.jpg)
+
+---
+
+## Cosa fa un civic hacker?
+
+@ul
+
+- Si muove davanti ad un problema riguardante la collettività
+- Prova ad innescare cambiamento
+- Attivismo operando da solo o in gruppo (dal basso!)
+
+@ulend
 
 ---
 
