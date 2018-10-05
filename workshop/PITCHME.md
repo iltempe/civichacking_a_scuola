@@ -93,7 +93,6 @@
 
 ![](assets/image/process-missing-maps.jpg)
 
----
 ---?image=assets/image/tci.jpg
 ---
 
@@ -156,7 +155,6 @@
 ---
 
 ## Grazie
-![](https://scontent.ffco2-1.fna.fbcdn.net/v/t31.0-8/12967935_10153515720287944_3688419158722488295_o.jpg?_nc_cat=105&oh=f238f43beb1514e9eace14fe80a0840b&oe=5C51E79F)
 - Matteo Tempestini
 - [@il_tempe](https://www.twitter.com/il_tempe)
 - [mtempestini@gmail.com](mailto:mtempestini@gmail.com)
