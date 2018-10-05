@@ -34,37 +34,37 @@
 
 ---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/assets/image/3.jpg
 
-#### Mappiamo la nostra città!
+#### Mappiamo la città
 
 [www.openstreetmap.org](http://www.openstreetmap.org)
 
 ---
 
-#### Collaborare per informazioni utili a tutti
+#### Collaborare per mappare informazioni utili a tutti
 
 ![](assets/image/esempioosm.jpg)
 
 ---
 
-#### Dov'è l'acqua potabile a Prato?
+#### Acqua Potabile?
 
 ![](assets/image/acqua.jpg)
 
 ---
 
-#### Dov'è lo sport a Prato?
+#### Sport?
 
 ![](assets/image/sport.jpg)
 
 ---
 
-#### Dove andare con la bici?
+#### Bici?
 
 ![](assets/image/pisteciclabili.jpg)
 
 ---
 
-#### Dove andare in treno?
+#### Treni?
 
 ![](assets/image/ferrovie.jpg)
 
