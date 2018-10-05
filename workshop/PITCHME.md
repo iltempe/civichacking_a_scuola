@@ -47,7 +47,6 @@
 ---
 
 #### Acqua Potabile?
-
 ![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/acqua1.jpg)
 
 ---
