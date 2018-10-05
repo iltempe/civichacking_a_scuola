@@ -31,7 +31,7 @@
 ---
 #### Creare mappe in tante lingue
 
-![](assets/image/mapparepratoincinese.jpg)
+![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/mapparepratoincinese.jpg)
 
 ---
 
