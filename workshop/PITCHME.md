@@ -34,9 +34,10 @@
 
 ---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/3.jpg
 
-#### Mappiamo la città
 
-[www.openstreetmap.org](http://www.openstreetmap.org)
+## @color[white](Mappare la città)
+
+## @color[white][www.openstreetmap.org](http://www.openstreetmap.org)
 
 ---
 
