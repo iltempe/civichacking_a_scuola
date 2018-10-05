@@ -32,6 +32,12 @@
 
 ![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/mapparepratoincinese.jpg)
 
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/assets/image/3.jpg
+
+#### Mappiamo la nostra città!
+
+[www.openstreetmap.org](http://www.openstreetmap.org)
+
 ---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-917377.jpeg
 
 ---
@@ -39,6 +45,9 @@
 #### Mappare ciò che non esiste (Kibera,Naerobi,Kenya)
 
 ![](assets/image/kibera-map.jpg)
+---
+
+---?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/nepal.jpg
 ---
 
 #### [Missing Maps](https://www.missingmaps.org/)
@@ -53,15 +62,11 @@
 
 - Si muove davanti ad un problema riguardante la collettività
 - Prova ad innescare cambiamento
-- Attivismo operando da solo o in gruppo (dal basso)
+- Attivismo operando da solo o in gruppo (dal basso!)
 
 @ulend
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/assets/image/3.jpg
 
-#### Mappiamo la nostra città!
-
-[www.openstreetmap.org](http://www.openstreetmap.org)
 
 ---
 
