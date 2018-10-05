@@ -22,9 +22,9 @@
 
 #### Mappare l'accessibilità?
 
-![wheelmap](https://www.youtube.com/watch?v=IK0FBVQB0g0)
+![wheelmap](https://www.youtube.com/embed/IK0FBVQB0g0)
 
-[WheelMap](https://www.youtube.com/watch?v=IK0FBVQB0g0)
+[WheelMap](https://www.wheelmap.org)
 
 ---
 
