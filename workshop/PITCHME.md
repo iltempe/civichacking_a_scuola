@@ -30,13 +30,11 @@
 
 @ulend
 
----
+---?image=https://github.com/iltempe/civichacking_a_scuola/blob/master/assets/image/3.jpg?raw=true
 
 #### Mappiamo la nostra città!
 
 [www.openstreetmap.org](http://www.openstreetmap.org)
-
-![](https://github.com/iltempe/civichacking_a_scuola/blob/master/assets/image/3.jpg?raw=true)
 
 ---
 
