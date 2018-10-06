@@ -4,7 +4,7 @@
 #### Giornata Regionale dell'Apprendimento Digitale
 #### 6 Ottobre 2018
 
----?image=assets/image/drain.jpg
+---?image=assets/image/drain1.jpg
 
 ---
 
