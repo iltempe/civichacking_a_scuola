@@ -23,7 +23,7 @@
 
 [WheelMap](https://www.wheelmap.org)
 
----?image=assets/image/language.jpeg
+---?image=assets/image/language.jpg
 
 ---
 #### Creare mappe in tante lingue
