@@ -4,7 +4,7 @@
 #### Giornata Regionale dell'Apprendimento Digitale
 #### 6 Ottobre 2018
 
----?image=https://upload.wikimedia.org/wikipedia/commons/4/46/Storm_Drain_Dryden.JPG
+---?image=assets/image/drain.jpg
 
 ---
 
@@ -14,7 +14,7 @@
 
 [Adopt A Drain](https://adoptadrain.sfwater.org/)
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-735656.jpeg
+---?image=assets/image/wheel.jpeg
 ---
 
 #### Mappare l'accessibilità?
@@ -23,12 +23,12 @@
 
 [WheelMap](https://www.wheelmap.org)
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-1162964.jpeg
+---?image=assets/image/language.jpeg
 
 ---
 #### Creare mappe in tante lingue
 
-![](https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/mapparepratoincinese.jpg)
+![](assets/image/mapparepratoincinese.jpg)
 
 ---
 
