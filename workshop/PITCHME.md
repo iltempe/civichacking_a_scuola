@@ -80,7 +80,7 @@
 
 #### Diventano tutti Dati Pubblici!
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/pexels-photo-917377.jpeg
+---?image=assets/image/poors.jpeg
 
 ---
 
@@ -88,7 +88,7 @@
 
 ![](assets/image/kibera-map.jpg)
 
----?image=https://raw.githubusercontent.com/iltempe/civichacking_a_scuola/master/workshop/assets/image/crowdsourcing.jpg
+---?image=assets/image/crowdsourcing.jpg
 ---
 
 #### [Missing Maps](https://www.missingmaps.org/)
